@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    <iconback img1="iconback" />
+	<iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    <scale factor=".75" />
+    -->
+
+    <!-- Browser -->
+    <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+    <item component="ComponentInfo{com.google.android.browser/com.android.browser.BrowserActivity}" drawable="com_android_browser_browseractivity" />
+
+    <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.android.browser.BrowserActivity}" drawable="titanium_backup" />
+
+    <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vk" />
+    <item component="ComponentInfo{org.softeg.slartus.materialforpdaplus/org.softeg.slartus.materialforpdaplus.MainActivity}" drawable="forpda" />
+    <item component="ComponentInfo{com.phoenixstudios.aiogestures/com.phoenixstudios.aiogestures.MainActivity}" drawable="aio" />
+    <item component="ComponentInfo{com.android.settings/com.android.settings.Settings}" drawable="settings" />
+    <item component="ComponentInfo{com.bigtincan.android.adfree/com.bigtincan.android.adfree.FreeMe}" drawable="adfree" />
+    <item component="ComponentInfo{com.dv.get/com.dv.get.Main}" drawable="dvget" />
+    <item component="ComponentInfo{tv.twitch.android.viewer/tv.twitch.android.apps.TwitchLandingActivity}" drawable="twitch" />
+    <item component="ComponentInfo{at.knorre.vortex/at.knorre.vortex.MainActivity}" drawable="twitch" />
+    <item component="ComponentInfo{tv.twitch.android.viewer/tv.twitch.android.apps.SplashScreenActivity}" drawable="twitch" />
+    <item component="ComponentInfo{com.estrongs.android.pop/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es" />
+    <item component="ComponentInfo{kellinwood.zipsigner2/kellinwood.zipsigner2.ZipPickerActivity}" drawable="zipsigner" />
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.CommunityActivity}" drawable="steam" />
+    <item component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.activity.AnalyticsHome}" drawable="googleanalytics" />
+    <item component="ComponentInfo{com.google.android.apps.giant/com.google.android.apps.giant.activity.AnalyticsLaunchActivity}" drawable="googleanalytics" />
+    <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.SplashActivity}" drawable="aliexpress" />
+    <item component="ComponentInfo{com.alibaba.android.aliexpress/com.alibaba.android.aliexpress.SplashActivity}" drawable="aliexpress" />
+    <item component="ComponentInfo{com.evernote/com.evernote.LauncherActivity}" drawable="evernote" />
+    <item component="ComponentInfo{com.evernote/com.evernote.ui.HomeActivity}" drawable="evernote" />
+    <item component="ComponentInfo{com.evernote/com.evernote.ui.LaunchActivity}" drawable="evernote" />
+    <item component="ComponentInfo{com.evernote/com.evernote.ui.MainActivity}" drawable="evernote" />
+    <item component="ComponentInfo{com.evernote/com.evernote.ui.MainView}" drawable="evernote" />
+    <item component="ComponentInfo{com.evernote.world/com.evernote.ui.HomeActivity}" drawable="evernote" />
+    <item component="ComponentInfo{com.evernote.food/com.evernote.food.FoodActivity}" drawable="evernote_food" />
+    <item component="ComponentInfo{com.evernote.widget/com.evernote.widget.dialog.WidgetAppInfoDialogActivity}" drawable="evernote_widget" />
+
+    <item component="ComponentInfo{com.cpuid.cpu_z/com.cpuid.cpu_z.MainActivity}" drawable="cpuz" />
+    <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.SplashActivity}" drawable="shazam" />
+    <item component="ComponentInfo{com.shazam.android/com.shazam.android.Home}" drawable="shazam" />
+    <item component="ComponentInfo{com.shazam.android/com.shazam.android.Splash}" drawable="shazam" />
+    <item component="ComponentInfo{com.shazam.motoid/com.shazam.motoid.Home}" drawable="shazam" />
+    <item component="ComponentInfo{com.shazam.android/com.shazam.android.activities.Splash}" drawable="shazam" />
+    <item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.activities.SplashActivity}" drawable="shazam_encore" />
+    <item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.Splash}" drawable="shazam_encore" />
+    <item component="ComponentInfo{com.shazam.encore.android/com.shazam.android.activities.Splash}" drawable="shazam_encore" />
+    <item component="ComponentInfo{org.zwanoo.android.speedtest/org.zwanoo.android.speedtest.MainTabActivity}" drawable="speed_test" />
+    <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="speed_test" />
+    <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="titanium_backup" />
+    <item component="ComponentInfo{com.google.android.maps.mytracks/com.google.android.apps.mytracks.MyTracks}" drawable="my_tracks" />
+    <item component="ComponentInfo{com.google.android.maps.mytracks/com.google.android.apps.mytracks.TrackListActivity}" drawable="my_tracks" />
+    <item component="ComponentInfo{org.zooper.zwpro/org.zooper.zwlib.Launcher}" drawable="zooper" />
+    <item component="ComponentInfo{org.zooper.zwfree/org.zooper.zwlib.Launcher}" drawable="zooper" />
+    <item component="ComponentInfo{com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity}" drawable="yahoo_weather" />
+    <item component="ComponentInfo{com.vipercn.viper4android/com.vipercn.viper4android.activity.ViPER4Android}" drawable="viperfx" />
+    <item component="ComponentInfo{com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.ViPER4Android}" drawable="viperfx" />
+    <item component="ComponentInfo{com.vipercn.viper4android42/com.vipercn.viper4android42.activity.ViPER4Android}" drawable="viperfx" />
+    <item component="ComponentInfo{com.vipercn.viper4android4x/com.vipercn.viper4android4x.activity.ViPER4Android}" drawable="viperfx" />
+
+</resources>
+<!-- From: file:/E:/Workspace/AndroidProjects/scratch_icon_pack_source-master1/app/src/main/res/xml/appfilter.xml -->

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <version>1</version>
+    <item drawable="com_android_browser_browseractivity" />
+
+    <item drawable="vk" />
+    <item drawable="app_game" />
+    <item drawable="forpda" />
+    <item drawable="contacts" />
+    <item drawable="aio" />
+    <item drawable="settings" />
+    <item drawable="adfree" />
+    <item drawable="dvget" />
+    <item drawable="twitch" />
+    <item drawable="es" />
+    <item drawable="zipsigner" />
+    <item drawable="googleanalytics" />
+    <item drawable="aliexpress" />
+    <item drawable="aliexpress_lite" />
+    <item drawable="evernote" />
+    <item drawable="explorer" />
+
+    <item drawable="cpuz" />
+    <item drawable="downloads2" />
+    <item drawable="google_wallet" />
+    <item drawable="htc_blinkfeed" />
+    <item drawable="htc_fetch" />
+    <item drawable="htc_gallery" />
+    <item drawable="htc_power_to_give2" />
+    <item drawable="htc_scribble" />
+    <item drawable="htc_service_pack" />
+    <item drawable="htc_usage_manager" />
+    <item drawable="htc_zoe" />
+    <item drawable="ifunny" />
+    <item drawable="ingress" />
+    <item drawable="llama" />
+    <item drawable="loader_droid" />
+    <item drawable="locker_master" />
+    <item drawable="maps_measure" />
+    <item drawable="music_htc" />
+    <item drawable="my_tracks" />
+    <item drawable="navigation" />
+    <item drawable="news_of_android" />
+    <item drawable="nexus" />
+    <item drawable="nfc_task_launcher" />
+    <item drawable="noom" />
+    <item drawable="s_video" />
+    <item drawable="scr" />
+    <item drawable="sense_6_lockscreen_mods" />
+    <item drawable="shazam" />
+    <item drawable="snapseed" />
+    <item drawable="speed_test" />
+    <item drawable="stocks" />
+    <item drawable="titanium_backup" />
+    <item drawable="todoist2" />
+    <item drawable="torch" />
+    <item drawable="vine" />
+    <item drawable="viperfx" />
+    <item drawable="voice_recorder" />
+    <item drawable="wakelock_detect" />
+    <item drawable="walmart" />
+    <item drawable="yahoo_weather" />
+    <item drawable="zooper" />
+
+</resources>
